@@ -1,6 +1,6 @@
 library ieee;
 use ieee.std_logic_1164.all;
-
+-- Deve ser o de top-level-priority
 -- Arthur Malta 
 -- Bruno Fraga 
 -- Caio Henrique
